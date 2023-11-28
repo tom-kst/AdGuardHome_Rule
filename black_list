@@ -1,0 +1,17 @@
+# deny httpdns
+httpdns.*
+*-httpdns.*
+httpdns-*.*
+*-httpdns-*.*
+# deny httpsdns
+httpsdns.*
+*-httpsdns.*
+httpsdns-*.*
+*-httpsdns-*.*
+# deny dns
+dns.*
+*-dns.*
+dns-*.*
+*-dns-*.*
+# deny PCDN
+mcdn.bilivideo.cn
