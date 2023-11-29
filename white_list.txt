@@ -5,6 +5,8 @@
 @@||albert.apple.com^$important
 @@||captive.apple.com^$important
 # permit Apple
+# 苹果自带地图的高德导航
+@@||dispatcher.is.autonavi.com^$important
 @@||gs.apple.com^$important
 @@||humb.apple.com^$important
 @@||static.ips.apple.com^$important
