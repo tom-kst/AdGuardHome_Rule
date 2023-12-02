@@ -4,6 +4,7 @@
 @@||adguard-dns.com^$important
 @@||albert.apple.com^$important
 @@||captive.apple.com^$important
+@@||ssls.com^$important
 # permit Apple
 # 苹果自带地图的高德导航
 @@||dispatcher.is.autonavi.com^$important
