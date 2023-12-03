@@ -1,11 +1,15 @@
-# permit other
+# permit DNS Server
 @@||adguard-dns.io^$important
 @@||nextdns.io^$important
 @@||adguard-dns.com^$important
+
+# permit ssls.com
 @@||ssls.com^$important
-# permit Apple
-# 苹果自带地图的高德导航
+
+# permit 苹果自带地图的高德导航
 @@||dispatcher.is.autonavi.com^$important
+
+# permit Apple in Business Network [https://support.apple.com/zh-cn/HT210060]
 @@||gs.apple.com^$important
 @@||humb.apple.com^$important
 @@||static.ips.apple.com^$important
