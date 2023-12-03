@@ -1,17 +1,20 @@
-# deny httpdns
+# [Hybrid] deny httpdns
 httpdns.*
 *-httpdns.*
 httpdns-*.*
 *-httpdns-*.*
-# deny httpsdns
+
+# [Hybrid] deny httpsdns
 httpsdns.*
 *-httpsdns.*
 httpsdns-*.*
 *-httpsdns-*.*
-# deny dns
+
+# [Hybrid] deny dns
 dns.*
 *-dns.*
 dns-*.*
 *-dns-*.*
-# deny PCDN
+
+# [App] deny PCDN
 mcdn.bilivideo.cn
