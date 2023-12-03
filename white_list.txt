@@ -1,4 +1,4 @@
-# permit
+# permit other
 @@||adguard-dns.io^$important
 @@||nextdns.io^$important
 @@||adguard-dns.com^$important
