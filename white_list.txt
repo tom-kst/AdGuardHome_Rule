@@ -2,8 +2,6 @@
 @@||adguard-dns.io^$important
 @@||nextdns.io^$important
 @@||adguard-dns.com^$important
-@@||albert.apple.com^$important
-@@||captive.apple.com^$important
 @@||ssls.com^$important
 # permit Apple
 # 苹果自带地图的高德导航
@@ -131,3 +129,5 @@
 @@||playgrounds-assets-cdn.apple.com^$important
 @@||playgrounds-cdn.apple.com^$important
 @@||sylvan.apple.com^$important
+@@||albert.apple.com^$important
+@@||captive.apple.com^$important
