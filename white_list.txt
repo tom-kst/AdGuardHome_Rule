@@ -7,7 +7,7 @@
 @@||ssls.com^$important
 
 # [Web] permit chiphell forum
-@@||www.chiphell.com^$important
+@@||chiphell.com^$important
 
 # [App] permit 苹果自带地图的高德导航
 @@||dispatcher.is.autonavi.com^$important
