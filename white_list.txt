@@ -13,6 +13,9 @@
 @@||dispatcher.is.autonavi.com^$important
 @@||direction2.is.autonavi.com^$important
 
+# [App] permit Apple Weather
+@@||weather-data.apple.com^$important
+
 # [Hybrid] permit Apple in Business Network [https://support.apple.com/zh-cn/HT210060]
 @@||gs.apple.com^$important
 @@||humb.apple.com^$important
