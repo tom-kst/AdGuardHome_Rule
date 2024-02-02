@@ -11,6 +11,7 @@
 
 # [App] permit 苹果自带地图的高德导航
 @@||dispatcher.is.autonavi.com^$important
+@@||direction2.is.autonavi.com^$important
 
 # [Hybrid] permit Apple in Business Network [https://support.apple.com/zh-cn/HT210060]
 @@||gs.apple.com^$important
