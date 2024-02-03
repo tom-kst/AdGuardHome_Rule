@@ -187,3 +187,8 @@
 @@||xboxservices.com^$important
 @@||xboxstudios.com^$important
 @@||xbx.lv^$important
+
+# [Web] permit Huawei Official Website
+@@||download.huawei.com^$important
+@@||e.huawei.com^$important
+@@||e-file.huawei.com^$important
