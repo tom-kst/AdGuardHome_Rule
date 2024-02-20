@@ -15,6 +15,7 @@
 
 # [App] permit Apple Weather
 @@||weather-data.apple.com^$important
+@@||api-weather.andy.works^$important
 
 # [Hybrid] permit Apple in Business Network [https://support.apple.com/zh-cn/HT210060]
 @@||gs.apple.com^$important
