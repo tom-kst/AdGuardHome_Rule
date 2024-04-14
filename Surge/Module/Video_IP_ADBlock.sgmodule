@@ -3,5 +3,5 @@
 
 [URL Rewrite]
 
-# 腾讯视频暂停广告
+# 腾讯视频客户端暂停广告
 https?:\/\/.*\/vmind.qqvideo.tc.qq.com.* - REJECT-TINYGIF
