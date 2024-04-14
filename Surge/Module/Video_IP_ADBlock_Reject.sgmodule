@@ -2,7 +2,8 @@
 #!desc=以Reject方式过滤IP为地址的广告
 
 [URL Rewrite]
-
+# 腾讯HTTP DNS
+^https?:\/\/119.29.29.(29|98|99)\/.* - reject
 # 腾讯视频
 ##视频暂停广告
 ^https?:\/\/.*\/vmind.qqvideo.tc.qq.com.* - reject
