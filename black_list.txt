@@ -18,6 +18,3 @@ dns-*.*
 
 # [App] deny PCDN
 mcdn.bilivideo.cn
-
-# [App] 腾讯视频
-||vmind.qqvideo.tc.qq.com^$important
