@@ -1,0 +1,7 @@
+#!name=Video IP ADBlock
+#!desc=过滤IP为地址的广告
+
+[URL Rewrite]
+
+# 腾讯视频暂停广告
+https?:\/\/.*\/vmind.qqvideo.tc.qq.com.* - reject
