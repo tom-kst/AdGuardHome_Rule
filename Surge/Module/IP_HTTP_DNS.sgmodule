@@ -1,0 +1,6 @@
+#!name=IP HTTP DNS
+#!desc=通过URL正则匹配拒绝对于纯IP的HTTP DNS的请求, 以弥补DNS过滤的疏漏
+
+[URL Rewrite]
+# 腾讯HTTP DNS
+^https?:\/\/119.29.29.(29|98|99)\/.* - reject
