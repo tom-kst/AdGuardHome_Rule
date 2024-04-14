@@ -1,5 +1,5 @@
 #!name=Video IP ADBlock Mock
-#!desc=过滤IP为地址的广告
+#!desc=以Mock方式过滤IP为地址的广告
 # 替换文件路径需要Fork后自行修改
 
 [Map Local]

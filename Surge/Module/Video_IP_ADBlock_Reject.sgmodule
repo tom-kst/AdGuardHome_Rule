@@ -1,5 +1,5 @@
 #!name=Video IP ADBlock Reject
-#!desc=过滤IP为地址的广告
+#!desc=以Reject方式过滤IP为地址的广告
 
 [URL Rewrite]
 
