@@ -193,3 +193,7 @@
 @@||download.huawei.com^$important
 @@||e.huawei.com^$important
 @@||e-file.huawei.com^$important
+
+# [App] 允许小黑盒加载图片
+@@||imgheybox.max-c.com^$important
+@@||cdn.max-c.com^$important
