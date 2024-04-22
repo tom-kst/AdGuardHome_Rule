@@ -197,3 +197,6 @@
 # [App] 允许小黑盒加载图片
 @@||imgheybox.max-c.com^$important
 @@||cdn.max-c.com^$important
+
+# [App] 允许知乎加载图片
+@@/pic(x|[0-9])\.zhimg\.com/$important
