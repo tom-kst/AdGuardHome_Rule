@@ -200,3 +200,9 @@
 
 # [App] 允许知乎加载图片
 @@/pic(x|[0-9])\.zhimg\.com/$important
+
+# [App] 腾讯视频TV客户端
+# 允许加载视频列表
+@@||tv.t002.ottcn.com^$important
+# 允许播放视频
+@@/(bkvv|h5vv|vv)\.play\.t002\.ottcn\.com/$important
