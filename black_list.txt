@@ -24,4 +24,4 @@ mcdn.bilivideo.cn
 
 # [Hybrid] 穿山甲广告
 ||pglstatp-toutiao.com^$important
-||pangolin-sdk-toutiao-?.com^$important
+/pangolin-sdk-toutiao-.*\.com/$important
