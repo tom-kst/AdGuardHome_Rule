@@ -4,6 +4,7 @@
 [URL Rewrite]
 # 腾讯HTTP DNS
 ^https?:\/\/119.29.29.(29|98|99)\/.* - reject
+^https?:\/\/119.28.28.28\/.* - reject
 
 # 腾讯视频
 ##视频暂停广告
