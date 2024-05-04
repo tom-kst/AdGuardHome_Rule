@@ -1,0 +1,7 @@
+#!name=General ADBlock Reject
+#!desc=以Reject方式过滤广告
+
+[URL Rewrite]
+
+# DMHY
+/^https?:\/\/(www|share)\.dmhy\.org\/VA[0-9]*\.gif\?[0-9]*/gm 
