@@ -4,4 +4,4 @@
 [URL Rewrite]
 
 # DMHY
-/^https?:\/\/(www|share)\.dmhy\.org\/VA[0-9]*\.gif\?[0-9]*/gm 
+^https?:\/\/(www|share)\.dmhy\.org\/VA[0-9]*\.gif\?[0-9]* - reject
