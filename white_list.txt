@@ -206,3 +206,5 @@
 @@||tv.t002.ottcn.com^$important
 # 允许播放视频
 @@/(bkvv|h5vv|vv)\.play\.t002\.ottcn\.com/$important
+# 允许加载视频集数右上角图标(SVIP|预告|免费)
+@@||vmat.gtimg.com^$important
