@@ -208,3 +208,5 @@
 @@/(bkvv|h5vv|vv)\.play\.t002\.ottcn\.com/$important
 # 允许加载视频集数右上角图标(SVIP|预告|免费)
 @@||vmat.gtimg.com^$important
+# 允许腾讯视频 点映 视频加载
+@@||fairplay.l.qq.com^$important
