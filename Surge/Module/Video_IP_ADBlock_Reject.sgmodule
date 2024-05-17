@@ -12,4 +12,4 @@
 ##软件首页顶部滚动页广告
 (^https?:\/\/.*\/defaultts.tc.qq.com\/)(?!.*\?index=[0-9]+&start=[0-9]+&end=[0-9]+).* - reject
 ##电视客户端暂停广告
-^https?:\/\/.*\/snscosdownload\/SZ\/reserved\/.* - reject
+^https?:\/\/.*\/snscosdownload\/[A-Za-z]*\/reserved\/.* - reject
