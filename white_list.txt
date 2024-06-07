@@ -1,7 +1,10 @@
 # [Web] permit DNS Server
 @@||adguard-dns.io^$important
-@@||nextdns.io^$important
 @@||adguard-dns.com^$important
+
+@@||nextdns.io^$important
+@@||cname.vercel-dns.com^$important
+
 
 # [Web] permit ssls.com
 @@||ssls.com^$important
