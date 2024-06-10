@@ -25,3 +25,10 @@ mcdn.bilivideo.cn
 # [Hybrid] 穿山甲广告
 ||pglstatp-toutiao.com^$important
 /pangolin-sdk-toutiao-.*\.com/$important
+
+# [Hybrid] 腾讯优量汇广告接口
+||pgdt.gtimg.cn^$important
+||mi.gdt.qq.com^$important
+||c.gdt.qq.com^$important
+||t.gdt.qq.com^$important
+||v.gdt.qq.com^$important
