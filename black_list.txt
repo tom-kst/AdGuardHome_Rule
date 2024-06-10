@@ -27,6 +27,7 @@ mcdn.bilivideo.cn
 /pangolin-sdk-toutiao-.*\.com/$important
 
 # [Hybrid] 腾讯优量汇广告接口
+# https://developers.adnet.qq.com/doc/api/guide
 ||pgdt.gtimg.cn^$important
 ||mi.gdt.qq.com^$important
 ||c.gdt.qq.com^$important
