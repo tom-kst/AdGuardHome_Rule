@@ -29,7 +29,4 @@ mcdn.bilivideo.cn
 # [Hybrid] 腾讯优量汇广告接口
 # https://developers.adnet.qq.com/doc/api/guide
 ||pgdt.gtimg.cn^$important
-||mi.gdt.qq.com^$important
-||c.gdt.qq.com^$important
-||t.gdt.qq.com^$important
-||v.gdt.qq.com^$important
+/[mi|c|t|v]\.gdt.qq\.com/$important
