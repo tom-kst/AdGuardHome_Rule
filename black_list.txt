@@ -21,7 +21,6 @@ mcdn.bilivideo.cn
 
 # [App] 腾讯视频广告
 ||adsmind.gdtimg.com^$important
-/[adsmind|ltshsy|ltsgdty]\.gtimg\.com/$important
 
 
 # [Hybrid] 穿山甲广告
