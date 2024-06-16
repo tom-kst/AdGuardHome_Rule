@@ -13,3 +13,5 @@
 (^https?:\/\/.*\/defaultts.tc.qq.com\/)(?!.*\?index=[0-9]+&start=[0-9]+&end=[0-9]+).* - reject
 ##电视客户端暂停广告
 ^https?:\/\/.*\/snscosdownload\/[A-Za-z]+\/reserved\/.* - reject
+##开屏广告
+^https?:\/\/[ltsgdty|ltdhsy].gtimg.com\/.*.ts - reject
