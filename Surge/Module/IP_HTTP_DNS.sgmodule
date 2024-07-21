@@ -5,3 +5,8 @@
 # 腾讯HTTP DNS
 ^https?:\/\/119.29.29.(28|29|98|99)\/.* - reject
 ^https?:\/\/119.28.28.(28|29|98|99)\/.* - reject
+
+# 企业微信客户端HTTPDNS解析 [https://res.mail.qq.com/zh_CN/wework_ip/latest.html]
+^https?:\/\/182.254.118.119\/.* - reject
+^https?:\/\/182.254.116.117\/.* - reject
+
