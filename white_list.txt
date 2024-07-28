@@ -215,3 +215,6 @@
 # [App] 腾讯视频移动客户端
 # 允许腾讯视频 点映 视频加载
 @@||fairplay.l.qq.com^$important
+
+# [Web] 允许TheMovieDB加载头像
+@@||secure.gravatar.com^$important
