@@ -218,3 +218,6 @@
 
 # [Web] 允许TheMovieDB加载头像
 @@||secure.gravatar.com^$important
+
+# [App] 中国电信部分软件登陆接口域名
+@@||open.e.189.cn^$important
