@@ -224,3 +224,6 @@
 
 # [App] 中国电信部分软件登陆接口域名
 @@||open.e.189.cn^$important
+
+# [Hybrid] 用于提供在全球范围内使用的头像服务
+@@||gravatar.com^$important
