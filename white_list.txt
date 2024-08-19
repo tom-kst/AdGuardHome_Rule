@@ -227,3 +227,6 @@
 
 # [Hybrid] 用于提供在全球范围内使用的头像服务
 @@||gravatar.com^$important
+
+# [Hybrid] 用于获取网站图标
+@@||logo.clearbit.com^$important
