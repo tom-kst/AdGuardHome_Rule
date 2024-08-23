@@ -32,3 +32,6 @@ mcdn.bilivideo.cn
 # https://developers.adnet.qq.com/doc/api/guide
 ||pgdt.gtimg.cn^$important
 /[mi|c|t|v]\.gdt.qq\.com/$important
+
+# [App] 腾讯漫画广告
+||pgdt.gtimg.cn^$important
