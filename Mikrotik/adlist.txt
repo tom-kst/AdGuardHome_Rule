@@ -1,0 +1,18 @@
+# [App] deny PCDN
+0.0.0.0 mcdn.bilivideo.cn
+
+# [App] 腾讯视频广告
+0.0.0.0 adsmind.gdtimg.com 
+0.0.0.0 vip.image.video.qpic.cn 
+
+
+# [Hybrid] 穿山甲广告
+0.0.0.0 pglstatp-toutiao.com
+
+# [Hybrid] 腾讯优量汇广告接口
+# https://developers.adnet.qq.com/doc/api/guide
+0.0.0.0 pgdt.gtimg.cn 
+0.0.0.0 mi.gdt.qq.com
+0.0.0.0 c.gdt.qq.com
+0.0.0.0 t.gdt.qq.com
+0.0.0.0 v.gdt.qq.com
