@@ -22,7 +22,7 @@ mcdn.bilivideo.cn
 # [App] 腾讯视频广告
 ||adsmind.gdtimg.com^$important
 # ||vip.image.video.qpic.cn^$important
-||vfiles.gtimg.cn^$important
+# ||vfiles.gtimg.cn^$important
 
 
 # [Hybrid] 穿山甲广告
