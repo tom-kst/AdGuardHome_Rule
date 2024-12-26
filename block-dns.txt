@@ -1,0 +1,17 @@
+# [Hybrid] deny httpdns
+httpdns.*
+*-httpdns.*
+httpdns-*.*
+*-httpdns-*.*
+
+# [Hybrid] deny httpsdns
+httpsdns.*
+*-httpsdns.*
+httpsdns-*.*
+*-httpsdns-*.*
+
+# [Hybrid] deny dns
+dns.*
+*-dns.*
+dns-*.*
+*-dns-*.*
