@@ -6,6 +6,7 @@
 # 腾讯视频
 ##客户端暂停广告
 ^https?:\/\/.*\/vmind.qqvideo.tc.qq.com data-type=file data="/Users/miaowan/Downloads/GIF.mp4"
+^https?:\/\/ugchsy\.gtimg\.com\/.*\.mp4.* data-type=file data="/Users/miaowan/Downloads/GIF.mp4"
 
 ##软件首页顶部滚动页广告
 #Old
