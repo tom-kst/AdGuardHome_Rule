@@ -234,3 +234,21 @@
 
 # [Hybrid] 用于获取网站图标
 @@||logo.clearbit.com^$important
+
+# [App] 腾讯微信客户端
+# 允许腾讯微信海外版域名
+@@||hkshort.weixin.qq.com^$important
+@@||hkaxshort.weixin.qq.com^$important
+@@||hkextshort.weixin.qq.com^$important
+@@||hkdisas.weixin.qq.com^$important
+@@||hkshort6.weixin.qq.com^$important
+@@||hkshort.pay.weixin.qq.com^$important
+@@||hklong.weixin.qq.com^$important
+@@||hkminorshort.weixin.qq.com^$important
+@@||hkquic.weixin.qq.com^$important
+
+@@||sgshort.pay.wechat.com^$important
+@@||sglong.wechat.com^$important
+@@||sgminorshort.wechat.com^$important
+@@||sgshort.wechat.com^$important
+@@||sgaxshort.wechat.com^$important
