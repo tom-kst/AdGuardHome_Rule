@@ -262,3 +262,6 @@
 @@||wl.jd.com^$important
 # 账号登陆
 @@||gias.jd.com^$important
+
+# [App] 国家电网
+@@||csc-static.sgcc.com.cn^$important
