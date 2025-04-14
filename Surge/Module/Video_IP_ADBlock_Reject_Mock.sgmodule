@@ -19,3 +19,6 @@
 
 ##移动客户端右下角游戏推广
 ^https?:\/\/.*\/vfiles.gtimg.cn/wupload/gameplat\..* data-type=file data="/Users/miaowan/Downloads/GIF.mp4"
+
+##移动客户端广告logo
+^https?:\/\/vfiles\.gtimg\.cn\/wupload\/ad_.* data-type=file data="/Users/miaowan/Downloads/GIF.mp4"
