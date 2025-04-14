@@ -23,3 +23,5 @@
 ##移动客户端右下角游戏推广
 ^https?:\/\/.*\/vfiles.gtimg.cn/wupload/gameplat\..* - reject
 
+##移动客户端广告logo
+^https?:\/\/vfiles\.gtimg\.cn\/wupload\/ad_.* - reject
