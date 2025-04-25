@@ -265,3 +265,6 @@
 
 # [App] 国家电网
 @@||csc-static.sgcc.com.cn^$important
+
+# [Web] Brawl Stars新版本更新邮件图片cdn
+@@|cdn.braze.eu^$important
