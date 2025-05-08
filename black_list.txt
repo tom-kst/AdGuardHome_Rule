@@ -1,5 +1,5 @@
 # [App] deny PCDN
-mcdn.bilivideo.cn
+||mcdn.bilivideo.cn^$important
 
 # [App] 腾讯视频广告
 ||adsmind.gdtimg.com^$important
