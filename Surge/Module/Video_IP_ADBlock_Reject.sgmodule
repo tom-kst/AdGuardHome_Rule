@@ -17,6 +17,8 @@
 (^https?:\/\/.*\/defaultts.tc.qq.com\/)(?!.*\?index=[0-9]+&start=[0-9]+&end=[0-9]+).* - reject
 #New
 (^https?:\/\/.*\/omts.tc.qq.com\/)(?!.*\?index=[0-9]+&start=[0-9]+&end=[0-9]+).* - reject
+# 播放界面送礼
+^https?:\/\/vfiles\.gtimg\.cn\/tvideo\/xac\/.* - reject
 
 ##电视客户端暂停广告
 ^https?:\/\/.*\/snscosdownload\/[A-Za-z]+\/reserved\/.* - reject
