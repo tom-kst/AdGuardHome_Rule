@@ -1,8 +1,14 @@
+# [Web] my own projects
+@@||tomkst.org^$important
+@@||tomtsang.site^$important
+@@||tom-tsang.com^$important
+
 # [Web] permit DNS Server
 @@||adguard-dns.io^$important
 @@||adguard-dns.com^$important
 
 @@||nextdns.io^$important
+@@||cloudflare.com^$important
 @@||cname.vercel-dns.com^$important
 
 
