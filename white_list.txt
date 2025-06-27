@@ -361,3 +361,12 @@
 
 # [App] 索尼电视系统更新
 @@|bravia-cfgdst-ore-pro.bda.ndmdhs.com^$important
+
+# Other Rules
+@@||rdelivery.qq.com^$important #会导致 QQ 无法网络搜索
+@@||mazu.m.qq.com^$important #会导致 QQ 安全中心无法登录
+@@||checkip.amazonaws.com^$important #我看个IP地址怎么了？
+@@||cn-acs.m.cainiao.com^$important #影响菜鸟App使用，具体忘了
+@@||theapplewiki.com^$important #我看个苹果维基怎么了？
+@@||kookong.com^$important #垃圾adaway，智能遥控添加设备之后，开关等按钮加载不出来，还以为是软件问题，人家一个提供红外码库的你屏蔽干什么？
+@@||client.app.coc.10086.cn^$important #会导致中国移动App无法正常加载
