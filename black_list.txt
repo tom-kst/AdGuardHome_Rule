@@ -19,7 +19,7 @@
 # [App] 腾讯漫画广告
 ||pgdt.gtimg.cn^$important
 
-#知乎
+# [Hybrid] 知乎
 ||api.zhihu.com/commercial_api/launch_v2^
 ||api.zhihu.com/commercial_api/real_time_launch_v2^
 ||api.zhihu.com/ad-style-service/request
@@ -31,7 +31,7 @@
 ||api.zhihu.com/v4/questions/*/answers*$replace=/\"adjson\"/\"adnull\"/s
 ||api.zhihu.com/people/self$replace=/\"vip_info\"/\"null_vip\"/s
 
-#大数据广告追踪
+# [App] 大数据广告追踪
 ||apd-pcdnwxstat.teg.tencent-cloud.net^
 ||apd-pcdnwxnat.teg.tencent-cloud.net^
 ||apd-pcdnvodstat.teg.tencent-cloud.net^
@@ -53,7 +53,7 @@
 ||dwz.cn^
 ||www.estrongs.com^
 
-#拼多多
+# [Hybrid] 拼多多
 ||social.pinduoduo.com^$important
 ||4pn.cn^$important
 ||4a9.cn^$important
@@ -67,7 +67,7 @@
 ||appmetrica.yandex.ru^$important
 ||share.jileme.net^$important
 
-#字节系 AD API SDK 屏蔽
+# [App] 字节系 AD API SDK 屏蔽
 /zijieapi.*/
 /byteorge.*/
 /bytegoofy.*/
@@ -87,7 +87,7 @@
 ||skdisplay.jd.com^$important
 ||settings.ttwebview.com^$important
 
-#番茄小说
+# [App] 番茄小说
 ||polaris3-normal-lq.zijieapi.com^$app=com.dragon.read
 ||v3-novelapp.fqnovelvod.com^$app=com.dragon.read
 ||ads3-normal-lq.zijieapi.com^$app=com.dragon.read
@@ -221,7 +221,7 @@
 ||skdisplay.jd.com^
 ||log-api.pangolin-sdk-toutiao-b.com^
 
-#酷安
+# [App] 酷安
 ||ctobsnssdk.com^
 ||pangolin.snssdk.com^
 ||pangolin-sdk-toutiao.com^
@@ -233,6 +233,7 @@
 ||tnc*.zijieapi.com^
 ||mssdk-bu.bytedance.com^
 
+# [App] Other Rules
 ! 帖子详情好物推荐
 ||api2.coolapk.com/v6/feed/detail$replace=/"include_goods_ids":\[.*?]\,"include_goods":\[.*?]\,/ /
 
