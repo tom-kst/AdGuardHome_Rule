@@ -253,7 +253,7 @@
 ||pangolin-sdk-toutiao.com^
 ||pangolin-sdk-toutiao-b.com^
 
-#番茄
+# [App] 番茄
 ||pangolin-sdk-toutiao.com^
 ||zijieapi.com^$app=com.dragon.read
 ||frontier-toutiao.snssdk.com^$app=com.dragon.read
@@ -261,7 +261,7 @@
 ||ads5-normal-lf.zijieapi.com^$app=com.dragon.read
 ||pglstatp-toutiao.com^
 
-#18bit
+# [App] 18bit
 ||file.7youxi.com^
 ||cdn.51img3.com^
 ||test.18bit.cn^
