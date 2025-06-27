@@ -10,14 +10,14 @@
 @@||cloudflare.com^$important
 @@||cname.vercel-dns.com^$important
 
-#微信公众号
+# [Hybrid] 微信公众号
 @@||aeventlog.beacon.qq.com^
 @@||cfg.flurry.com^
 @@||data.flurry.com^
 #@@||otheve.beacon.qq.com^
 @@||tpstelemetry.tencent.com^
 
-#微信直连
+# [App] 微信直连
 @@||szaxshort.weixin.qq.com^$important
 @@||axshort.weixin.qq.com^$important
 @@||mldisas.weixin.qq.com^$important
@@ -362,7 +362,7 @@
 # [App] 索尼电视系统更新
 @@|bravia-cfgdst-ore-pro.bda.ndmdhs.com^$important
 
-# Other Rules
+# [Hybrid] Other Rules
 @@||rdelivery.qq.com^$important #会导致 QQ 无法网络搜索
 @@||mazu.m.qq.com^$important #会导致 QQ 安全中心无法登录
 @@||checkip.amazonaws.com^$important #我看个IP地址怎么了？
